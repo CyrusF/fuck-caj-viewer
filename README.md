@@ -5,4 +5,4 @@ for limited CAJ file, without print authority:
 2. run "worker.py" turn video into images
 3. combine images to new pdf
 
-![image](http://github.com/CyrusF/fuck-caj-viewer/raw/master/screenshot.png)
+![image](https://github.com/CyrusF/fuck-caj-viewer/blob/master/screenshot.png)
